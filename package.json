@@ -1,0 +1,24 @@
+{
+  "name": "password-locker-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "locker.js",
+  "dependencies": {
+    "copy-paste": "^1.3.0",
+    "d": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnJasonFisher/passwordLockerJS.git"
+  },
+  "author": "JohnJasonFisher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnJasonFisher/passwordLockerJS/issues"
+  },
+  "homepage": "https://github.com/JohnJasonFisher/passwordLockerJS#readme"
+}

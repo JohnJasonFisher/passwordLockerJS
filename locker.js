@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const passwords = require('./passwords.json')
-const copyPaste = require('copy-paste')
+import passwords from 'passwords.json'
+import copyPaste from 'copy-paste'
 
 const inquiry = process.argv[2]
 

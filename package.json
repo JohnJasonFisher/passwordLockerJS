@@ -16,6 +16,7 @@
     "babel-preset-env": "^1.7.0"
   },
   "scripts": {
+    "encrypt-build": "npx babel encrypt.js --out-file build/encrypt.build.js",
     "build": "npx babel locker.js --out-file build/locker.build.js"
   },
   "repository": {

@@ -1,6 +1,6 @@
 # passwordLockerJS
 
 To run the program:
-	npm i
-	add a passwords.json file
-	node locker accountName
+npm i__
+add a passwords.json file__
+node locker accountName

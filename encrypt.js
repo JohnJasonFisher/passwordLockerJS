@@ -1,6 +1,6 @@
 import passwords from 'passwords.json'
 import fs from 'fs'
-import SimpleCrypto from "simple-crypto-js"
+import SimpleCrypto from 'simple-crypto-js'
 
 const key = SimpleCrypto.generateRandom()
 console.log(`This is your new encrption key:

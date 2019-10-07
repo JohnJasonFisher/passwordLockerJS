@@ -17,8 +17,8 @@ run encrpt.build.js and a new password.json file will be generated in the build 
 npm i
 ```
 ```
-add a passwords.json file
+add a passwords.json file in the build folder
 ```
 ```
-node locker accountName
+node build/locker accountName
 ```

@@ -12,5 +12,5 @@ for (let props in passwords) {
 }
 
 const newPasswords = JSON.stringify(passwords, null, '\t')
-        
+
 fs.writeFileSync("passwords.json", newPasswords)

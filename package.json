@@ -9,7 +9,7 @@
     "braces": "^2.3.2",
     "copy-paste": "^1.3.0",
     "fs": "0.0.1-security",
-    "simple-crypto-js": "^2.0.2"
+    "simple-crypto-js": "^2.3.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
